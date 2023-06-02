@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Abin-Biju
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python 
--🧑‍💻Inspired by Google 
+- print("Learning python")
+•-🧑‍💻Inspired by Google 
 
 
 <!---
