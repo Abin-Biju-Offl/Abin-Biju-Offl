@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.labl {
+    background-color: #171717;
+    background-size: cover;
+    height: 100px;
+
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+    list-style-type: none;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    list-style-type: none;
+    background-color: #AAF200;
+}
+
+.hyper {
+    color: #333;
+    font-weight: bold;
+    background-image: url("https://images.unsplash.com/photo-1677155875750-9eb42b39f4e5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    height: 10vh;
+    width: 100vh;
+}
+
+nav a:hover {
+    color: #ccc;
+    list-style-type: none;
+
+}
+
+.log {
+    border: none;
+    font-family: Caveat;
+    margin: 10px;
+    font-size: 30px;
+    color: #AAF200;
+    padding: 10px;
+}
+
+.detail {
+    background-color: #171717;
+    height: 20vh;
+    color: #AAF200;
+    font-size: 15px;
+    text-align: center;
+}
+
+.black {
+    background-color: #AAF200;
+}
+
+.fon {
+    font-family: Trebuchet MS;
+}
+
+.pink {
+    background-color: #AAF200;
+    color: #171717;
+    font-size: 14px;
+    border-radius: 16px;
+    margin: 24px;
+}
+
+.mainheading {
+    font-size: 20px;
+}
+
+.subheading {
+    font-size: 29px;
+    font-family: Trebuchet MS;
+
+}
+
+.txt {
+    color: #AAF200;
+    font-size: 14px;
+}
+
+.fon {
+    font-family: roboto;
+}
+
+.but1 {
+    border: none;
+    background-color: #e6f6ff;
+
+}
+
+.secondbox {
+    background-color: #26282A;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.back {
+    background-color: #171717;
+}
+
+.pad {
+    padding: 15px;
+    margin: 10px;
+}
+
+.dim {
+    height: 10px;
+    width: 5px;
+    padding: 24px;
+    background-image: url("https://w7.pngwing.com/pngs/304/275/png-transparent-user-profile-computer-icons-profile-miscellaneous-logo-monochrome.png");
+    background-size: cover;
+}
+
+.img {
+    height: 20px;
+    width: 1px;
+
+}
+
+.cav {
+    font-family: Caveat;
+}
+
+.siz {
+    width: 20vh;
+    height: 30vh;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.cad {
+    height: 15vh;
+    width: 20vh;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.padc {
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.text {
+    text-align: center;
+}
+
+.credits {
+    background-color: #AAF200;
+    color: #171717;
+}
