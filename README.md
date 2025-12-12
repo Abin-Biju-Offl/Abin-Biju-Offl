@@ -1,9 +1,7 @@
 Hey I'm Abin Biju
 
 🧠 Artificial Intelligence and Data Science Student</br>
-📚 Interested in Designing, Visualizing</br>
-⭐ Soon to be Entrepreneur</br>
-🟣 Also have Cinematography Skills</br>
+📚 Interested in Generative AI, Agentic AI</br>
 
 
 ## 🌐 Socials:
